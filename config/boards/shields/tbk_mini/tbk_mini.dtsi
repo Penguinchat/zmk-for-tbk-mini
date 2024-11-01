@@ -5,11 +5,11 @@
  */
 
 #include <dt-bindings/zmk/matrix_transform.h>
-
+#include "tbk_mini-layouts.dtsi"
 / {
 	chosen {
 		zmk,kscan = &kscan0;
-		zmk,matrix_transform = &default_transform;
+		zmk,physical-layout = &layout_0;
 	};
 
 	default_transform: keymap_transform_0 {
