@@ -25,7 +25,7 @@
         lower_layer {
             bindings = <
 &kp TAB      &kp N1  &kp N2  &kp N3  &kp N4  &kp N5   &kp N6     &kp N7           &kp N8     &kp N9  &kp N0   &kp BSPC
-&kp CLCK     &trans  &trans  &trans  &trans  &trans   &trans     &trans           &trans     &trans  &trnas   &trans
+&kp CLCK     &trans  &trans  &trans  &trans  &trans   &trans     &trans           &trans     &trans  &trans   &trans
 &trans       &trans  &trans  &trans  &trans  &trans   &trans     &trans           &trans     &trans  &trans   &trans
                              &trans  &kp LEFT_SHIFT   &kp CLCK   &mo 3     &kp RIGHT_SHIFT  &trans
             >;
