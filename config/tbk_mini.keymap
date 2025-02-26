@@ -17,7 +17,7 @@
 &kp PG_UP    &kp Q           &kp W           &kp E        &kp R             &kp T        &kp Y  &kp U             &kp I          &kp O            &kp P               &kp END
 &kp PG_DN    &kp A           &kp S           &kp D        &kp F             &kp G        &kp H  &kp J             &kp K          &kp L            &kp SEMI            &kp SQT
 &kp LCTRL    &kp Z           &kp X           &kp C        &kp V             &kp B        &kp N  &kp M             &kp COMMA      &kp DOT          &kp FSLH            &kp RALT
-                                             &mo 1      &kp SPACE           & ENTER      &kp BACKSPACE            &kp SPACE      &mo 2
+                                             &mo 1      &kp SPACE           &kp ENTER      &kp BACKSPACE            &kp SPACE      &mo 2
             >;
             display-name = "LAYER 0";
         };
